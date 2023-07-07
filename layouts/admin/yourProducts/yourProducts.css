@@ -155,7 +155,7 @@ p{
     transition: ease-in all 0.2s;
     color: white;
 }
-@media (max-width:490px) {
+@media (max-width:950px) {
     .productTittle{
         margin-top: 6vh;
     }

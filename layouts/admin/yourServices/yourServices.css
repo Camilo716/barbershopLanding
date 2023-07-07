@@ -94,6 +94,17 @@ button:hover{
 }
 
 @media (max-width: 950px) {
-    
+    body{
+        height: 100%;
+        padding: 2vh;
+    }
+
+    .servicesGallery{
+        flex-direction: column;
+    }  
+
+    .service{
+        padding: 4vh 0vh;
+    }
 }
 
