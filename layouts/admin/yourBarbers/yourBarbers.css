@@ -150,21 +150,26 @@ p{
         border-bottom: 1px solid white;
         padding: 3vh;
     }
+
     .barber:nth-child(3){
         border-bottom: none;
     }
+
     h2{
         font-size: 3vh;
     }
+
     p{
         display: inline;
     }
+
     .productActions{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
+    
     .action{
         margin: 2vh;
     }

@@ -155,3 +155,20 @@ p{
     transition: ease-in all 0.2s;
     color: white;
 }
+@media (max-width:490px) {
+    .productTittle{
+        margin-top: 6vh;
+    }
+    .container{
+        width: 30vh;
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .PRODUCTS{
+        width: auto;
+        height: auto;
+    }
+}

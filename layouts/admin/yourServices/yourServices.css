@@ -93,3 +93,7 @@ button:hover{
     transition: ease 0.5s;
 }
 
+@media (max-width: 950px) {
+    
+}
+
